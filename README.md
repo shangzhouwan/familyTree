@@ -159,3 +159,6 @@ export default {
 </script>
 ```
 参考3:https://github.com/donatso/family-chart
+参考4:https://github.com/BenPortner/js_family_tree
+参考5:https://github.com/daveagp/family-tree
+
