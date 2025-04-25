@@ -2,6 +2,7 @@
 create my family tree 
 ---------------------------
 参考1：https://github.com/SanichKotikov/relatives-tree
+![这是参考1图片](/1.png)
 
   #Installation
   
