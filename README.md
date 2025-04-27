@@ -1,14 +1,14 @@
 # familyTree
 create my family tree 
 ---------------------------
-参考1：https://github.com/SanichKotikov/relatives-tree
+## 参考1：https://github.com/SanichKotikov/relatives-tree
 ![这是参考1图片](/img/1.png)
 
-  #Installation
+  ### Installation
   
   `npm i relatives-tree`
   
-#Usage
+### Usage
 
 ```
 import calcTree, { type Node } from 'relatives-tree';
@@ -47,7 +47,7 @@ const tree = calcTree(nodes, { rootId: "1" });
 
 render(tree);
 ```
-参考2: https://github.com/walkerz88/vue-family-tree
+## 参考2: https://github.com/walkerz88/vue-family-tree
 ![这是参考2图片](/img/2.png)
 
 `npm install vue-family-tree --save`
@@ -161,9 +161,9 @@ export default {
 }
 </script>
 ```
-参考3:https://github.com/donatso/family-chart
+## 参考3:https://github.com/donatso/family-chart
 
-参考4:https://github.com/BenPortner/js_family_tree
+## 参考4:https://github.com/BenPortner/js_family_tree
 ![这是参考4图片](/img/4.png)
-参考5:https://github.com/daveagp/family-tree
+## 参考5:https://github.com/daveagp/family-tree
 
